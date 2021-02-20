@@ -1,0 +1,18 @@
+h1 {
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+
+html {
+background-color: goldenrod;
+text-align: center;
+font-family: system-ui;
+}
+
+footer {
+padding: 8px;
+border: 3px solid black;
+border-radius: 20px;
+background-color: darkgray;
+margin-top: 10px;
+}
